@@ -1,0 +1,897 @@
+{
+  "country": "US",
+  "email": "jack.clancy93@gmail.com",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/user/jclancy93"
+  },
+  "followers": {
+    "href": null,
+    "total": 0
+  },
+  "href": "https://api.spotify.com/v1/users/jclancy93",
+  "images": [],
+  "product": "premium",
+  "type": "user",
+  "uri": "spotify:user:jclancy93",
+  "topArtists": {
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        "followers": {
+          "href": null,
+          "total": 2695978
+        },
+        "genres": [
+          "reggae",
+          "roots reggae"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "images": [
+          {
+            "height": 858,
+            "url": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
+            "width": 1000
+          },
+          {
+            "height": 549,
+            "url": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802",
+            "width": 640
+          },
+          {
+            "height": 172,
+            "url": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098",
+            "width": 200
+          },
+          {
+            "height": 55,
+            "url": "https://i.scdn.co/image/357fe6ef3655b1b33855e33546e3c174a38a1a36",
+            "width": 64
+          }
+        ],
+        "name": "Bob Marley & The Wailers",
+        "popularity": 78,
+        "type": "artist",
+        "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        },
+        "followers": {
+          "href": null,
+          "total": 286610
+        },
+        "genres": [
+          "alternative dance",
+          "downtempo",
+          "electronic",
+          "indie r&b",
+          "indietronica",
+          "microhouse",
+          "minimal techno",
+          "new rave",
+          "trip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5a0etAzO5V26gvlbmHzT9W",
+        "id": "5a0etAzO5V26gvlbmHzT9W",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/595cd82f577ca097add78f3c2f4df0a4ffd00353",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/751374ba952443d80964c617c0129b7b6288861a",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ada7e4d49a19be29f5123ba2d91488beccde20dd",
+            "width": 160
+          }
+        ],
+        "name": "Nicolas Jaar",
+        "popularity": 58,
+        "type": "artist",
+        "uri": "spotify:artist:5a0etAzO5V26gvlbmHzT9W"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BZsrfqi9CKHBVgcV7uqFj"
+        },
+        "followers": {
+          "href": null,
+          "total": 6890
+        },
+        "genres": [
+          "deep melodic euro house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3BZsrfqi9CKHBVgcV7uqFj",
+        "id": "3BZsrfqi9CKHBVgcV7uqFj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/7bd2f66d4c99f3bdac9e1b11d93fd42548fce19e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ceced734af53df694ca6be2571e91ee21f138cae",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/c3e7971b42af0ee5cbb4fae388209500a3d969e7",
+            "width": 64
+          }
+        ],
+        "name": "Valentin Stip",
+        "popularity": 31,
+        "type": "artist",
+        "uri": "spotify:artist:3BZsrfqi9CKHBVgcV7uqFj"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "followers": {
+          "href": null,
+          "total": 4449051
+        },
+        "genres": [
+          "pop",
+          "pop christmas",
+          "pop rap",
+          "rap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "images": [
+          {
+            "height": 666,
+            "url": "https://i.scdn.co/image/b86a3dbd77a8353647bff195d310d5eb1bd80af6",
+            "width": 999
+          },
+          {
+            "height": 426,
+            "url": "https://i.scdn.co/image/37ebfb3df8966b60e114cab3b5ebecea705347b7",
+            "width": 639
+          },
+          {
+            "height": 133,
+            "url": "https://i.scdn.co/image/c91e8b8341db71d9700d4635bbd3b0860c452e4d",
+            "width": 200
+          },
+          {
+            "height": 43,
+            "url": "https://i.scdn.co/image/27e073a7c285d68b60c1e2c8f1ab8bd2b44d6f74",
+            "width": 64
+          }
+        ],
+        "name": "Kanye West",
+        "popularity": 89,
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2sAlo7Fey5cqBk5WJILSd8"
+        },
+        "followers": {
+          "href": null,
+          "total": 47594
+        },
+        "genres": [
+          "alternative hip hop",
+          "trip hop",
+          "wonky"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2sAlo7Fey5cqBk5WJILSd8",
+        "id": "2sAlo7Fey5cqBk5WJILSd8",
+        "images": [
+          {
+            "height": 380,
+            "url": "https://i.scdn.co/image/4676117d53ed54a6a2c341c489bce9e3bd2f28e6",
+            "width": 380
+          },
+          {
+            "height": 200,
+            "url": "https://i.scdn.co/image/0038d5cb7c8cdbd77d694a196edffc1f5e64b20f",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/0fbef2c884641a14979281a668f9451a1b0b5751",
+            "width": 64
+          }
+        ],
+        "name": "Onra",
+        "popularity": 51,
+        "type": "artist",
+        "uri": "spotify:artist:2sAlo7Fey5cqBk5WJILSd8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        "followers": {
+          "href": null,
+          "total": 50791
+        },
+        "genres": [
+          "deep euro house",
+          "deep melodic euro house",
+          "house",
+          "minimal techno",
+          "tech house",
+          "tropical house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2D9Oe8R9UhbMvFAsMJpXj0",
+        "id": "2D9Oe8R9UhbMvFAsMJpXj0",
+        "images": [
+          {
+            "height": 1000,
+            "url": "https://i.scdn.co/image/9d50efc57cdb93bae548e859a588c3721ab44f37",
+            "width": 1000
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/db37ea2d220a3fac2540d6fb5b72e5af985093e8",
+            "width": 640
+          },
+          {
+            "height": 200,
+            "url": "https://i.scdn.co/image/8315841abb3f78f619352aaca35e7c26c87963a6",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/193c961ec95458281793a1843be84db30a86cfb9",
+            "width": 64
+          }
+        ],
+        "name": "Kölsch",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:2D9Oe8R9UhbMvFAsMJpXj0"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        },
+        "followers": {
+          "href": null,
+          "total": 27512
+        },
+        "genres": [
+          "afrobeat",
+          "bass music",
+          "chamber psych",
+          "float house",
+          "fluxwork",
+          "french indietronica",
+          "future garage",
+          "indie jazz",
+          "indie r&b",
+          "indietronica",
+          "microhouse",
+          "new rave",
+          "ninja",
+          "wonky"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6d1HqiWNEKV9zFqQM9WeYo",
+        "id": "6d1HqiWNEKV9zFqQM9WeYo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/1d77994ddaf19162079fcc4008ee558ed361d19d",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/d584827bc74ca205c4021aa6704e5043d778a1c3",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/6de5e64f9a0ec4ff95bb7c91742e3d98230795c7",
+            "width": 160
+          }
+        ],
+        "name": "Romare",
+        "popularity": 48,
+        "type": "artist",
+        "uri": "spotify:artist:6d1HqiWNEKV9zFqQM9WeYo"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "followers": {
+          "href": null,
+          "total": 9438261
+        },
+        "genres": [
+          "canadian pop",
+          "hip hop",
+          "pop rap",
+          "rap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/cb080366dc8af1fe4dc90c4b9959794794884c66",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/6bd672a0f33705eda4b543c304c21a152f393291",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/085ae2e76f402468fe9982851b51cf876e4f20fe",
+            "width": 160
+          }
+        ],
+        "name": "Drake",
+        "popularity": 100,
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        "followers": {
+          "href": null,
+          "total": 577300
+        },
+        "genres": [
+          "downtempo",
+          "electronic",
+          "indie r&b",
+          "indietronica",
+          "ninja",
+          "nu jazz",
+          "trip hop",
+          "tropical house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0cmWgDlu9CwTgxPhf403hb",
+        "id": "0cmWgDlu9CwTgxPhf403hb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/78a2564ce7df557c561f2cd226f3eb71ddee04e3",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/1010c4a585d507fdf88d298134e3f2352a1c1dd2",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/4fcccc478c9d72e5129a455a2f57c218690e0eed",
+            "width": 160
+          }
+        ],
+        "name": "Bonobo",
+        "popularity": 70,
+        "type": "artist",
+        "uri": "spotify:artist:0cmWgDlu9CwTgxPhf403hb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "followers": {
+          "href": null,
+          "total": 3506977
+        },
+        "genres": [
+          "hip hop",
+          "pop rap",
+          "rap",
+          "west coast rap"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/da50f27abcf740320fd96455956d9a7726d7c850",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/d76b47c550865cd6dea682e935fe58bd771b4064",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ac98d95fe337cb358d8e0cfddf76367bf859ac1f",
+            "width": 160
+          }
+        ],
+        "name": "Kendrick Lamar",
+        "popularity": 88,
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        },
+        "followers": {
+          "href": null,
+          "total": 245526
+        },
+        "genres": [
+          "alternative dance",
+          "electronic",
+          "indietronica",
+          "microhouse",
+          "minimal techno",
+          "new rave",
+          "synthpop",
+          "trip hop",
+          "tropical house"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2exkZbmNqMKnT8LRWuxWgy",
+        "id": "2exkZbmNqMKnT8LRWuxWgy",
+        "images": [
+          {
+            "height": 1000,
+            "url": "https://i.scdn.co/image/aa28d008f92636cfd4088461e39b783f57eeb0c6",
+            "width": 1000
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/04a1d0d490d700b1a6feeacd31db5e5bfe1bc737",
+            "width": 640
+          },
+          {
+            "height": 200,
+            "url": "https://i.scdn.co/image/1d7996e31fb7783c403516db8bd96c5183d29d63",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/e78f4e41879d04b780f6c580c59fab4143f3ebb0",
+            "width": 64
+          }
+        ],
+        "name": "Moderat",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:2exkZbmNqMKnT8LRWuxWgy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "followers": {
+          "href": null,
+          "total": 1443368
+        },
+        "genres": [
+          "east coast hip hop",
+          "gangster rap",
+          "hardcore hip hop",
+          "hip hop",
+          "pop rap",
+          "rap",
+          "southern hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id": "5me0Irg2ANcsgc93uaYrpb",
+        "images": [
+          {
+            "height": 1250,
+            "url": "https://i.scdn.co/image/1b4858fbd24046a81cace5ee18d19c868262b91f",
+            "width": 1000
+          },
+          {
+            "height": 800,
+            "url": "https://i.scdn.co/image/9bb42de208edcb69653a8e7951fa93b13f598cdd",
+            "width": 640
+          },
+          {
+            "height": 250,
+            "url": "https://i.scdn.co/image/e56612ae56c9007e99ab36b83efd4faf6401260d",
+            "width": 200
+          },
+          {
+            "height": 80,
+            "url": "https://i.scdn.co/image/fc074d287739cca12a89c76fd338ff7d4aa4acee",
+            "width": 64
+          }
+        ],
+        "name": "The Notorious B.I.G.",
+        "popularity": 77,
+        "type": "artist",
+        "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        },
+        "followers": {
+          "href": null,
+          "total": 91433
+        },
+        "genres": [
+          "alternative dance",
+          "downtempo",
+          "electronic",
+          "filter house",
+          "french indie pop",
+          "french indietronica",
+          "indietronica",
+          "new rave"
+        ],
+        "href": "https://api.spotify.com/v1/artists/23ymPLjbtAMzTJS2qRtQ8Z",
+        "id": "23ymPLjbtAMzTJS2qRtQ8Z",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/f33a312c7b9299806b6e61ea30b36cb82fd20c7d",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/0e5bff3489597b841991bf72fc25c707fa3a6709",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/4b7c008867ea1624fc3efffe72ab4eed9ab25ac6",
+            "width": 160
+          }
+        ],
+        "name": "Sébastien Tellier",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:23ymPLjbtAMzTJS2qRtQ8Z"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        },
+        "followers": {
+          "href": null,
+          "total": 124573
+        },
+        "genres": [
+          "alternative dance",
+          "destroy techno",
+          "electro house",
+          "electroclash",
+          "filter house",
+          "new rave"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3hteYQFiMFbJY7wS0xDymP",
+        "id": "3hteYQFiMFbJY7wS0xDymP",
+        "images": [
+          {
+            "height": 371,
+            "url": "https://i.scdn.co/image/4b13e5132cee00999b89de51d9f7b2fa2e016a5d",
+            "width": 368
+          },
+          {
+            "height": 202,
+            "url": "https://i.scdn.co/image/213164e712dfad23486d3f0821a72b68a6602a6e",
+            "width": 200
+          },
+          {
+            "height": 65,
+            "url": "https://i.scdn.co/image/eb717f25ff22183d12409b71c5217e404c3c6e5a",
+            "width": 64
+          }
+        ],
+        "name": "Gesaffelstein",
+        "popularity": 50,
+        "type": "artist",
+        "uri": "spotify:artist:3hteYQFiMFbJY7wS0xDymP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        },
+        "followers": {
+          "href": null,
+          "total": 125069
+        },
+        "genres": [
+          "alternative dance",
+          "bass music",
+          "chamber psych",
+          "chillwave",
+          "electronic",
+          "indie r&b",
+          "indietronica",
+          "microhouse",
+          "new rave",
+          "vapor twitch",
+          "wonky"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6xS3zemJD9h94iueQvGqVk",
+        "id": "6xS3zemJD9h94iueQvGqVk",
+        "images": [
+          {
+            "height": 1000,
+            "url": "https://i.scdn.co/image/89c7ebcde1187373449446ae4b51e5f188814f63",
+            "width": 1000
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/90ca42be1af96dd5d116094c093d6adbff020acc",
+            "width": 640
+          },
+          {
+            "height": 200,
+            "url": "https://i.scdn.co/image/e00b153d0b05fa5d7affd9d980480873f1e099b1",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/81dccedb62a055128f8dad4f7261eebaf758db50",
+            "width": 64
+          }
+        ],
+        "name": "Gold Panda",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:6xS3zemJD9h94iueQvGqVk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        "followers": {
+          "href": null,
+          "total": 999539
+        },
+        "genres": [
+          "gangster rap",
+          "hip hop",
+          "indie r&b",
+          "pop rap",
+          "rap",
+          "southern hip hop",
+          "trap music",
+          "underground hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5IcR3N7QB1j6KBL8eImZ8m",
+        "id": "5IcR3N7QB1j6KBL8eImZ8m",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/36447c3a3adfb908867fe2a8679cc3fb92b8ecab",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ba13683e8189076c6069511fa80b1bf96aebf15d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/7a19e6a72ab790c2d80e7e3b248105320f0e6f41",
+            "width": 160
+          }
+        ],
+        "name": "ScHoolboy Q",
+        "popularity": 78,
+        "type": "artist",
+        "uri": "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        "followers": {
+          "href": null,
+          "total": 33583
+        },
+        "genres": [
+          "deep disco house",
+          "detroit techno",
+          "minimal tech house",
+          "minimal techno",
+          "tech house",
+          "techno"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3JkLFcTej6tdwZoQT6Nx4B",
+        "id": "3JkLFcTej6tdwZoQT6Nx4B",
+        "images": [
+          {
+            "height": 500,
+            "url": "https://i.scdn.co/image/0d2db03e710b07ce622c761a6a7263b811f06384",
+            "width": 500
+          },
+          {
+            "height": 200,
+            "url": "https://i.scdn.co/image/d91072e5423ff8566ac73d5e7c1013f1885dfd0d",
+            "width": 200
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/639e6d2595b005c6624416239290dd864d5cc204",
+            "width": 64
+          }
+        ],
+        "name": "Seth Troxler",
+        "popularity": 35,
+        "type": "artist",
+        "uri": "spotify:artist:3JkLFcTej6tdwZoQT6Nx4B"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        },
+        "followers": {
+          "href": null,
+          "total": 67707
+        },
+        "genres": [
+          "alternative dance",
+          "balearic",
+          "bass music",
+          "chillwave",
+          "electronic",
+          "float house",
+          "indie r&b",
+          "indietronica",
+          "microhouse",
+          "minimal techno",
+          "new rave"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1YvN5uOGQkHVUUlZUcnotD",
+        "id": "1YvN5uOGQkHVUUlZUcnotD",
+        "images": [
+          {
+            "height": 667,
+            "url": "https://i.scdn.co/image/d6b535e59b01f4a2c8da04f6c5dcd93d3183311b",
+            "width": 1000
+          },
+          {
+            "height": 427,
+            "url": "https://i.scdn.co/image/40413b4e3eafefe3b6df9d638c5ad2ebe846da1d",
+            "width": 640
+          },
+          {
+            "height": 133,
+            "url": "https://i.scdn.co/image/bbbd23e3beefd62bee07f92c0a6a6f5b7c236ba1",
+            "width": 200
+          },
+          {
+            "height": 43,
+            "url": "https://i.scdn.co/image/7ae4d18a846471e3e1e5d5c5a1cf4a7d819201ea",
+            "width": 64
+          }
+        ],
+        "name": "John Talabot",
+        "popularity": 47,
+        "type": "artist",
+        "uri": "spotify:artist:1YvN5uOGQkHVUUlZUcnotD"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
+        },
+        "followers": {
+          "href": null,
+          "total": 33551
+        },
+        "genres": [
+          "deep disco house",
+          "deep melodic euro house",
+          "house",
+          "microhouse",
+          "minimal tech house",
+          "minimal techno"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7Gsu15RkjjdKhMecdRpk9x",
+        "id": "7Gsu15RkjjdKhMecdRpk9x",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/51e9cc5714313e6e74de7017bdea903807eaf6c2",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/fb90872ea18804e0c77a756dffd3b1c5d3581c65",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/db41a8c3f87689f9cf312c13b91f1607e673cfad",
+            "width": 160
+          }
+        ],
+        "name": "Art Department",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:7Gsu15RkjjdKhMecdRpk9x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        "followers": {
+          "href": null,
+          "total": 214886
+        },
+        "genres": [
+          "alternative hip hop",
+          "deep underground hip hop",
+          "dirty south rap",
+          "escape room",
+          "gangster rap",
+          "hip hop",
+          "indie r&b",
+          "pop rap",
+          "rap",
+          "soul flow",
+          "southern hip hop",
+          "trap music",
+          "underground hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0g9vAlRPK9Gt3FKCekk4TW",
+        "id": "0g9vAlRPK9Gt3FKCekk4TW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/eff7433105ae6f6ed6ffb6b03d46aaee8d6811ae",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/4743f3b8c3f0093a2e29379b11ee19eddec7bd78",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/e88c7b912f866f006a7a58c6b161b7c903686495",
+            "width": 160
+          }
+        ],
+        "name": "Ab-Soul",
+        "popularity": 65,
+        "type": "artist",
+        "uri": "spotify:artist:0g9vAlRPK9Gt3FKCekk4TW"
+      }
+    ],
+    "total": 48,
+    "limit": 20,
+    "offset": 0,
+    "href": "https://api.spotify.com/v1/me/top/artists",
+    "previous": null,
+    "next": "https://api.spotify.com/v1/me/top/artists?limit=20&offset=20"
+  },
+  "name": "",
+  "picture": "https://cdn.auth0.com/avatars/default.png",
+  "nickname": "",
+  "clientID": "uC2mSJbaCGT1gOjiJzFTT7Bs7PDmvXkq",
+  "updated_at": "2017-04-08T04:49:43.571Z",
+  "user_id": "oauth2|Spotify|jclancy93",
+  "identities": [
+    {
+      "provider": "oauth2",
+      "user_id": "Spotify|jclancy93",
+      "connection": "Spotify",
+      "isSocial": true
+    }
+  ],
+  "created_at": "2017-04-08T04:43:04.441Z",
+  "sub": "oauth2|Spotify|jclancy93"
+}
