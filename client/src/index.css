@@ -1,24 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
 body {
-background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+  background: #134E5E;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #71B280, #134E5E);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #71B280, #134E5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 }
 
-ul {
-  list-style: none; 
+.Site-header {
+  display: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 i {
   position: absolute;
-  right: 0;
-}
-
-.video {
-  display: flex; 
-  width: 90%;
-  flex-direction: row;
-  height: 100px;
-}
-
-.video__preview {
-  display: flex; 
-
+  right: 15%;
+  color: white
 }

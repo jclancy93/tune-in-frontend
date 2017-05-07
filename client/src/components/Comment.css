@@ -1,0 +1,31 @@
+ ul {
+  list-style: none; 
+  height: 90vh;
+  overflow-y: scroll;
+}
+
+.video {
+  display: flex; 
+  width: 90%;
+  flex-direction: row;
+  height: 100px;
+  align-items: center;
+  position: relative;
+}
+
+.video__info {
+  display: flex; 
+  align-items: center;
+  margin-left: 25px;
+  text-align: left;
+  height: 100%;
+}
+
+span, a {
+	color: white;
+}
+
+.options {
+	margin-left: 50%;
+}
+

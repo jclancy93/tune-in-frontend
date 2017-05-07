@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import './Comment.css';
 
 class Video extends Component {
   render() {
       var videoStyle = {
-        width: "48px",
-        height: "48px",
+        width: "60px",
+        height: "60px",
         color: "white",
         display: "inline-block",
         background: `url(${this.props.data.spotifyInfo.US.image}) center`,
@@ -22,33 +23,29 @@ class Video extends Component {
       <li className="video" data-id={this.props.data.id}>
         <div onClick={this.handleClick}
          className="video__preview" >
-        {/* 
-          //Overlay markup
-        */}
+         <div ></div>
           <div style={videoStyle}></div>
-          <i className="fa fa-play-circle-o fa-2x" aria-hidden="true"></i>
         </div>
-        {/* 
-          //Video info markup
-        */}
         <div className="video__info">
           <a href={this.props.data.url}><h2>{this.props.data.title}</h2></a>
-          {/* 
-            //Video info markup
-          */}
-          <div className="user-info">
-            <span style={userIconStyle}></span>
             <span>
               <a href={this.props.data.spotifyInfo.US.url} className="user-link">
                 {this.props.data.artistName}
               </a>
-               | {this.props.data.stats_number_of_plays} plays
+              <br/>
+              <a>{this.props.data.name}</a>
             </span>
-          </div>
+        </div>
+        <div className="options">
+          <i className="fa fa-ellipsis-h" aria-hidden="true"></i>
         </div>
       </li>
+
       );
   }
-}
+}        
+
+
+
 
 export default Video;

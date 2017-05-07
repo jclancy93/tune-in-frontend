@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './CommentBox.css';
 
 class CommentBox extends Component {
   loadCommentsFromServer () {
@@ -35,7 +36,8 @@ var CommentList = React.createClass({
     var commentNodes = this.props.data.map(function (notification, index) {
       console.log(notification)
       return (
-        <h1>hi</h1>
+        <Comment key={index} data={notification} className="comment">
+        </Comment>
       );
     });
     return (
