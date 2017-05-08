@@ -6,11 +6,17 @@
 
 .video {
   display: flex; 
-  width: 90%;
+  width: 85%;
   flex-direction: row;
   height: 100px;
+  margin: 0 5%;
+  padding: 0 2.5%;
   align-items: center;
   position: relative;
+}
+
+.video:hover {
+  background: rgba(0,0,0,0.3)
 }
 
 .video__info {
@@ -21,11 +27,43 @@
   height: 100%;
 }
 
+.list-number {
+  display: inline-block;
+  font-size: 28px;
+  position: absolute;
+  top: 35px;
+  left: 15px;
+  color: white;
+}
+
+.play-button {
+  display: none;
+}
+
+.video:hover .play-button {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  font-size: 28px;
+  position: absolute;
+  top: 35px;
+  left: 15px;
+}
+
+.video:hover .list-number {
+  display: none;
+}
+
 span, a {
 	color: white;
 }
 
 .options {
 	margin-left: 50%;
+}
+
+.duration {
+  position: absolute;
+  right: 5%;
 }
 

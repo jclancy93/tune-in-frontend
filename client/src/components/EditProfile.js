@@ -34,7 +34,7 @@ render() {
             // Check for data, if none display loading... 
             // if data display most liked
           */}
-          { this.state.data.length>0 ?  'Most Liked'  : 'Loading....'}
+          { this.state.data.length>0 ?  'Your Songs'  : 'Loading....'}
         </h2>
         {/*
           // Check for data then render component

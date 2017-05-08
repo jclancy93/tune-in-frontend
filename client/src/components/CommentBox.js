@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import './CommentBox.css';
 
 class CommentBox extends Component {
   loadCommentsFromServer () {
@@ -24,7 +23,7 @@ class CommentBox extends Component {
 
     return (
       <div className="commentBox">
-        <h3>Songs<
+        <h3>Songs</h3>
         <CommentList data={this.state.data} />
       </div>
     );

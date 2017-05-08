@@ -15,7 +15,7 @@ class App extends Component {
           <Route path="/login" component={Login} />
           <Route onEnter={requireAuth}>
             {/* Place all authenticated routes here */}
-            <Route path="/profile/edit" component={EditProfile} />
+            <Route path="/songs" component={EditProfile} />
           </Route>
         </Route>
       </Router>
